@@ -1,0 +1,85 @@
+  A:link    { color: #003380; text-decoration:none;     }
+  A:visited { color: #003380; text-decoration:none;     }
+  A:active  { text-decoration:none;     }
+  A:hover   { color: #003380; text-decoration:none;		 }
+  
+.errbtn {   font:normal normal bold 12px normal '' '' '';
+	background-Color:#b2ccff;
+	border-Top-Color:#EFE3EF;
+	border-Bottom-Color:#023599;
+	border-Left-Color:#EFE3EF;
+	border-Right-Color:023599;
+	padding-top: 3px;
+}
+.errbtnold {   font:normal normal bold 12px normal '' '' '';
+	background-Color: #C6BEA5;
+	border-Top-Color:#E7E3D6;
+	border-Bottom-Color:8C8A63;
+	border-Left-Color:#E7E3D6;
+	border-Right-Color:8C8A63;
+	padding-top: 3px;
+}
+.txtwhite {
+	font-family: "", "", "Arial", "Verdana", "Helvetica";
+	font-size: 11px;
+	font-style: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.txtfriend {
+	font-family: "", "", "Arial", "Verdana", "Helvetica";
+	font-size: 11px;
+	font-style: normal;
+	color: #ffd700;
+	text-decoration: none;
+}
+.txtonchannel {
+	font-family: "", "", "Arial", "Verdana", "Helvetica";
+	font-size: 11px;
+	font-style: normal;
+	color: #63BAF7;
+	text-decoration: none;
+}
+.txtonline {
+	font-family: "", "", "Arial", "Verdana", "Helvetica";
+	font-size: 11px;
+	font-style: normal;
+	color: #DEDFDE;
+	text-decoration: none;
+}
+.txtoffline {
+	font-family: "", "", "Arial", "Verdana", "Helvetica";
+	font-size: 11px;
+	font-style: normal;
+	color: #999999;
+	text-decoration: none;
+}
+.input01 {
+	font-family: "", "", "Arial", "Verdana", "Helvetica";
+	font-size: 11px;
+	font-style: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: #12377F;
+	border: #003366;
+
+}
+.bg01 {
+	background-image: url(/images/gamefind/game_bg03.gif);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+
+.txtBlue {
+	font-family: "", "", "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	color: #003366;
+	text-decoration: none;
+}
+
+.txtBlack {
+	font-family: "", "", "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}

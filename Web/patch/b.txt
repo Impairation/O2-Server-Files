@@ -1,0 +1,24 @@
+//Lightboard
+O2Jam Song Packs available for non-ingame download! See website for details.
+Stunt Flying (O3 Remix) - Sanxion7 fans, don't miss this remix at any cost!
+Gargoyle - Presenting Sanxion7's hard Techno offering
+
+//Stateroom
+- Stunt Flying (O3 Remix) - Get ready to soar!
+- Red Pulse This Week: Open Your Mind - a mind-blowing techno track;
+   The hardest offering from Red Pulse and Side of the World yet!
+- Call Me Again - Knuckle Joe is back with more hybrid-alternative.
+- Official news and events update available for viewing at
+   "http://www.o2jam.web.id/"
+
+
+//StateWaiting
+/w <receiver> <content> : Whisper another user.
+F2                 : Automatically switch to unused team color.
+F3                 : Toggle READY status, or START for room host.
+F5                 : Toggle square/rounded note shape while in-game.
+F6                 : Cycle guideline length while in-game.
+F8                 : Toggle windows/image cursor mode.
+F9                 : Toggle equalizer on/off.
+PrintScreen        : Take screenshot
+

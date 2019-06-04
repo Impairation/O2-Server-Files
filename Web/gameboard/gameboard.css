@@ -1,0 +1,106 @@
+.txtWhite {
+	font-family: "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	font-style: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.txtYellowB {
+	font-family: "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	font-style: normal;
+	color: #FFFF99;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+.txtWhiteB {
+	font-family: "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	font-style: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+.txtDarkblue {
+
+	font-family: "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	font-style: normal;
+	color: #003366;
+	text-decoration: none;
+}
+
+.input01 {  
+    font-family: "Arial"; 
+	font-size: 12px; color: #336699; 
+	background-color:#C1E9F0; 
+	height=18;font-size:9pt; 
+	border:1px solid #006699;
+.txtDarkviolet {
+
+
+	font-family: "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	font-style: normal;
+	color: #003366;
+	text-decoration: none;
+}
+.txtDarkviolet {
+
+
+	font-family: "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	font-style: normal;
+	color: #480C5F;
+	text-decoration: none;
+}
+.input02 {
+	font-family: "Arial";
+	font-size: 12px;
+	color: #333366;
+	background-color:#D8E9F4;
+	border:1px solid #18509D;
+
+}
+.bg01 {
+	text-decoration: none;
+	background-image: url(../images/payment/payment_mess_error_bg01.gif);
+	background-repeat: no-repeat;
+	background-position: left top;
+
+}
+.txtLightBlueB {
+
+	font-family: "Verdana", "Helvetica";
+	font-size: 12px;
+	font-style: normal;
+	color: #CCFFFF;
+	text-decoration: none;
+	font-weight: bold;
+}
+.txtLightBlue {
+
+	font-family: "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	font-style: normal;
+	color: #CCFFFF;
+	text-decoration: none;
+}
+.input03 {
+
+    font-family: "Arial"; 
+	font-size: 12px; color: #7C78AD; 
+	background-color:#E4E9FF; 
+	height=18;font-size:9pt; 
+	border:1px solid #7C78AD;
+}
+.input04 {
+
+	font-family: "Arial";
+	font-size: 12px;
+	color: #333366;
+	background-color:#C1D0F8;
+	border:1px solid #3B3D7C;
+}

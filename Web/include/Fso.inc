@@ -1,0 +1,1 @@
+<OBJECT RUNAT = Server PROGID = Scripting.FileSystemObject id = fs></OBJECT>

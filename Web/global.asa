@@ -1,0 +1,33 @@
+<!--METADATA TYPE= "typelib" NAME= "ADODB Type Library" FILE="C:\Program Files\Common Files\SYSTEM\ADO\msado15.dll" -->
+<SCRIPT LANGUAGE="VBScript" RUNAT="Server">
+Sub Application_OnStart
+
+'	107 테스트 서버
+'	웹디비 접근
+	Application("Connection_ConnectionString")   = "Provider=SQLOLEDB.1;Persist Security Info=False;Data Source=127.0.0.1;Initial Catalog=O2JamTrade;User ID=sa;PWD=o2jamepic99"
+	Application("m_Connection_ConnectionString")   = "Provider=SQLOLEDB.1;Persist Security Info=False;Data Source=127.0.0.1;Initial Catalog=O2JamTrade;User ID=sa;PWD=o2jamepic99"		
+	
+'	게임디비접근
+	Application("c_Connection_ConnectionString")   = "Provider=SQLOLEDB.1;Persist Security Info=False;Data Source=127.0.0.1;Initial Catalog=O2JAM;User ID=sa;PWD=o2jamepic99"			
+
+	Application("Connection_ConnectionTimeout") = 80
+	Application("Connection_CommandTimeout") = 80
+	
+
+End Sub
+
+Sub Application_OnEnd
+
+End sub
+
+Sub Session_OnStart
+	Session.Timeout = 20
+End Sub
+
+</SCRIPT>
+
+<SCRIPT LANGUAGE="VBScript" RUNAT="Server">
+Sub Session_OnEnd 
+
+End Sub
+</SCRIPT>

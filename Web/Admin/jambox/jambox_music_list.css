@@ -1,0 +1,229 @@
+  A:link    { color: #3F3F3F; text-decoration:none;     }
+  A:visited { color: #908c90; text-decoration:none;     }
+  A:active  { text-decoration:none;     }
+  A:hover   { color: #3366CC; text-decoration:none;		 }
+  p,br,body,select,input,form,textarea,option,td { font-family:"Arial"; font-size:9pt; }
+
+A.jambox:link {	COLOR: #ffffff; FONT-FAMILY: "Arial"; FONT-SIZE: 12px; LETTER-SPACING: 0px; TEXT-DECORATION: none}
+A.jambox:visited { COLOR: #ffffff; FONT-FAMILY: "Arial"; FONT-SIZE: 12px; LETTER-SPACING: 0px; TEXT-DECORATION: none}
+A.jambox:active { COLOR: #ffffff; FONT-FAMILY: "Arial"; FONT-SIZE: 12px; LETTER-SPACING: 0px; TEXT-DECORATION: none}
+A.jambox:hover { COLOR: #ffffff; FONT-FAMILY: "Arial"; FONT-SIZE: 12px; LETTER-SPACING: 0px; TEXT-DECORATION: none}
+.bg01 {
+	background-image: url(http://image.mgame.com/o2media/images/main/all_bg01.gif);
+	background-repeat: no-repeat;
+	background-position: left top;
+	font-family: "Arial", "Verdana", "Arial", "Verdana", "Helvetica";
+
+}
+.bg02 {
+	background-image: url(http://image.mgame.com/o2media/images/main/all_bg04.gif);
+	background-repeat: repeat-y;
+	background-position: right;
+}
+
+.input01 {  
+    font-family: "Arial", "Verdana", "Arial"; 
+	font-size: 12px; color: #336699; 
+	background-color:#FFFFFF; 
+	height=18;font-size:9pt; 
+	border:1px solid #999999;
+}
+.txtDarkBlue {
+	font-family: "Arial", "Verdana", "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	color: #003366;
+}
+.txtGray {
+	font-family: "Arial", "Verdana", "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	color: #666666;
+}
+.SubBg01 {
+	background-image: url(http://image.mgame.com/o2media/images/main/all_bg15.gif);
+	background-repeat: repeat-x;
+	background-position: top;
+}
+.txtGrayS {
+	font-family: "Arial", "Helvetica", "sans-serif";
+	font-size: 11px;
+	color: #666666;
+}
+.txtBlue01 {
+	font-family: "Arial", "Verdana", "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	color: #003366;
+}
+.txtBlueB {
+	font-family: "Arial", "Verdana", "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	font-weight: bold;
+	color: #003366;
+
+}
+.txtGrayContents {
+	font-family: "Arial", "Verdana", "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	color: #666666;
+	line-height: 14px;
+}
+.txtBrown {
+	font-family: "Arial", "Verdana", "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	color: #663300;
+}
+.txtDarkGray {
+	font-family: "Arial", "Verdana", "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	color: #333333;
+}
+.input02 {
+
+    font-family: "Arial", "Verdana", "Arial"; 
+	font-size: 12px; color: #336699; 
+	background-color:#FFFFFF; 
+    font-size:9pt; 
+	border:1px solid #999999;
+}
+.txtRed {
+	font-family: "Arial", "Verdana", "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	color: #CC3333;
+}
+.txtBlueUnderbar {
+	font-family: "Arial", "Verdana", "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	color: #003366;
+	text-decoration: underline;
+}
+.txtGreen {
+	font-family: "Arial", "Verdana", "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	color: #006666;
+	text-decoration: none;
+}
+.txtWhite {
+	font-family: "Arial", "Verdana", "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.input03 {
+	font-family: "Arial", "Verdana", "Arial";
+	font-size: 12px;
+	color: #336699;
+	background-color:#FFFFFF;
+
+	height=18;	font-size:9pt;
+	border:1px solid #999999;
+	height: 20px;
+
+}
+.txtRedB {
+	font-family: "Arial", "Verdana", "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.txtGrayContentsS {
+	font-size: 12px;
+	color: #666666;
+	line-height: normal;
+	text-decoration: none;
+	font-family: "Verdana", "Arial", "Arial", "Helvetica", "sans-serif";
+	font-style: normal;
+	font-weight: normal;
+	LETTER-SPACING: -0.5px;
+
+
+}
+.txtGrayB {
+
+	font-family: "Arial", "Helvetica", "sans-serif";
+	font-size: 14px;
+	color: #333333;
+}
+.input04 {
+
+	font-family: "Arial", "Verdana", "Arial";
+	font-size: 12px;
+	color: #FF6600;
+	background-color:#FFFFFF;
+
+	height=18;	font-size:9pt;
+	border:1px solid #999999;
+	height: 20px;
+}
+.txtViolet {
+	font-family: "Arial", "Verdana", "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	color: #663366;
+	text-decoration: none;
+
+}
+.txtSkyblue {
+
+	font-family: "Arial", "Verdana", "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	color: #124F7F;
+	text-decoration: none;
+}
+.txtPinkB {
+
+	font-family: "Arial", "Verdana", "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	font-weight: bold;
+	color: #B51244;
+	text-decoration: none;
+}
+.txtPink {
+
+
+	font-family: "Arial", "Verdana", "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	font-weight: normal;
+	color: #69153E;
+	text-decoration: none;
+}
+.txtBlue02 {
+
+	font-family: "Arial", "Verdana", "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	color: #1F787E;
+}
+.txtBlue03 {
+
+
+	font-family: "Arial", "Verdana", "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	color: #1F477E;
+}
+.txtGreen01 {
+
+	font-family: "Arial", "Verdana", "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	color: #6E8F0D;
+	text-decoration: none;
+}
+.txtBrowns {
+
+	font-family: "Arial", "Verdana", "Arial", "Verdana", "Helvetica";
+	font-size: 11px;
+	color: #663300;
+}
+.mainbg01 {
+	font-family: "Arial", "Verdana", "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	font-weight: normal;
+	color: #69153E;
+	text-decoration: none;
+	background-image: url(images/main/main01_bg.gif);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+
+}
+.NewTableBg01 {
+	background-image: url(http://image.mgame.com/o2media/images/news/news_table_bg07.gif);
+	background-repeat: repeat-x;
+	background-position: bottom;
+}

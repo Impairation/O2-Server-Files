@@ -1,0 +1,18 @@
+.musicWhite {
+	font-family: "", "u", "Arial", "Verdana", "Helvetica";
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.musicWhiteTitle {
+	font-family: "", "u", "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-transform: capitalize;
+
+
+}

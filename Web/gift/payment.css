@@ -1,0 +1,81 @@
+.txtWhite {
+	font-family: "", "", "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	font-style: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.txtYellowB {
+	font-family: "", "", "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	font-style: normal;
+	color: #FFFF99;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+.txtWhiteB {
+	font-family: "", "", "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	font-style: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+.txtDarkblue {
+
+	font-family: "", "", "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	font-style: normal;
+	color: #003366;
+	text-decoration: none;
+}
+
+.input01 {  
+    font-family: "", "", "Arial"; 
+	font-size: 12px; color: #336699; 
+	background-color:#C1E9F0; 
+	height=18;font-size:9pt; 
+	border:1px solid #006699;
+.txtDarkviolet {
+
+
+	font-family: "", "", "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	font-style: normal;
+	color: #003366;
+	text-decoration: none;
+}
+.txtDarkviolet {
+
+
+	font-family: "", "", "Arial", "Verdana", "Helvetica";
+	font-size: 12px;
+	font-style: normal;
+	color: #480C5F;
+	text-decoration: none;
+}
+.input02 {
+	font-family: "", "", "Arial";
+	font-size: 12px;
+	color: #333366;
+	background-color:#AEC8EC;
+	border:1px solid #18509D;
+
+}
+.bg01 {
+	text-decoration: none;
+	background-image: url(/images/payment/payment_mess_error_bg01.gif);
+	background-repeat: no-repeat;
+	background-position: left top;
+
+}
+
+.bg04 {
+	text-decoration: none;
+	background-image: url(/images/payment/payment_mess_error_bg04.gif);
+	background-repeat: no-repeat;
+	background-position: left top;
+
+}

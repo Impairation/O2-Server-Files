@@ -1,0 +1,1 @@
+<OBJECT RUNAT = Server PROGID = hcheck.hchk id = hchk></OBJECT>

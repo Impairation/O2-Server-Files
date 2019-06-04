@@ -1,0 +1,156 @@
+A:link {
+	COLOR: #004f99; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #004f99; TEXT-DECORATION: none
+}
+A:active {
+	TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #39bced; TEXT-DECORATION: underline
+}
+P {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 160%; FONT-FAMILY: "宋体"
+}
+BR {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 160%; FONT-FAMILY: "宋体"
+}
+BODY {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 160%; FONT-FAMILY: "宋体"
+}
+SELECT {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 160%; FONT-FAMILY: "宋体"
+}
+INPUT {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 160%; FONT-FAMILY: "宋体"
+}
+FORM {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 160%; FONT-FAMILY: "宋体"
+}
+TEXTAREA {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 160%; FONT-FAMILY: "宋体"
+}
+OPTION {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 160%; FONT-FAMILY: "宋体"
+}
+TD {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 160%; FONT-FAMILY: "宋体"
+}
+BODY {
+	
+}
+TD {
+	WORD-BREAK: break-all
+}
+.input01 {
+	BORDER-RIGHT: #bdbdbd 1px solid; BORDER-TOP: #bdbdbd 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #bdbdbd 1px solid; COLOR: #000000; BORDER-BOTTOM: #bdbdbd 1px solid; FONT-FAMILY: "宋体", "u", "Arial"; BACKGROUND-COLOR: #f9f9f9
+}
+.input02 {
+	BORDER-RIGHT: 1px solid; BORDER-TOP: 1px solid; BORDER-LEFT: 1px solid; BORDER-BOTTOM: 1px solid; FONT-FAMILY: "宋体", "u", "Arial"
+}
+.selsctbox {
+	BORDER-RIGHT: 1px solid; BORDER-TOP: 1px solid; FONT-SIZE: 12px; BORDER-LEFT: 1px solid; COLOR: #000000; BORDER-BOTTOM: 1px solid; BACKGROUND-COLOR: #15bffa
+}
+.textarea {
+	BORDER-RIGHT: 1px solid; BORDER-TOP: 1px solid; BORDER-LEFT: 1px solid; BORDER-BOTTOM: 1px solid; FONT-FAMILY: "宋体", "u", "Arial"
+}
+.txtBlackB {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "宋体", "u", "Arial", "Verdana", "Helvetica"; TEXT-DECORATION: none
+}
+.txtBlackB:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "宋体", "u", "Arial", "Verdana", "Helvetica"; TEXT-DECORATION: none
+}
+.txtBlackB:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "宋体", "u", "Arial", "Verdana", "Helvetica"; TEXT-DECORATION: none
+}
+.txtBlackB:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "宋体", "u", "Arial", "Verdana", "Helvetica"; TEXT-DECORATION: none
+}
+.txtBlackSB {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "宋体", "u", "Arial", "Verdana", "Helvetica"; TEXT-DECORATION: none
+}
+.txtBlack {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "宋体", "u", "Arial", "Verdana", "Helvetica"; TEXT-DECORATION: none
+}
+.txtBlackS {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "宋体", "u", "Arial", "Verdana", "Helvetica"; TEXT-DECORATION: none
+}
+.txtBlackS:link {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "宋体", "u", "Arial", "Verdana", "Helvetica"; TEXT-DECORATION: none
+}
+.txtBlackS:visited {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "宋体", "u", "Arial", "Verdana", "Helvetica"; TEXT-DECORATION: none
+}
+.txtBlackS:hover {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "宋体", "u", "Arial", "Verdana", "Helvetica"; TEXT-DECORATION: none
+}
+.txtSkyblue {
+	FONT-SIZE: 12px; COLOR: #0071b2; FONT-FAMILY: "宋体", "u", "Arial", "Verdana", "Helvetica"; TEXT-DECORATION: none
+}
+.txtSkyblue:link {
+	FONT-SIZE: 12px; COLOR: #0071b2; FONT-FAMILY: "宋体", "u", "Arial", "Verdana", "Helvetica"; TEXT-DECORATION: none
+}
+.txtSkyblue:visited {
+	FONT-SIZE: 12px; COLOR: #0071b2; FONT-FAMILY: "宋体", "u", "Arial", "Verdana", "Helvetica"; TEXT-DECORATION: none
+}
+.txtSkyblue:hover {
+	FONT-SIZE: 12px; COLOR: #0071b2; FONT-FAMILY: "宋体", "u", "Arial", "Verdana", "Helvetica"; TEXT-DECORATION: none
+}
+.txtOrangeB {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #e44600; FONT-FAMILY: "宋体", "u", "Arial", "Verdana", "Helvetica"; TEXT-DECORATION: none
+}
+.txtOrange {
+	FONT-SIZE: 12px; COLOR: #e44600; FONT-FAMILY: "宋体", "u", "Arial", "Verdana", "Helvetica"; TEXT-DECORATION: none
+}
+.txtOrangeS {
+	FONT-SIZE: 12px; COLOR: #e44600; FONT-FAMILY: "宋体", "u", "Arial", "Verdana", "Helvetica"; TEXT-DECORATION: none
+}
+.txtOrangeS:link {
+	FONT-SIZE: 12px; COLOR: #e44600; FONT-FAMILY: "宋体", "u", "Arial", "Verdana", "Helvetica"; TEXT-DECORATION: none
+}
+.txtOrangeS:visited {
+	FONT-SIZE: 12px; COLOR: #e44600; FONT-FAMILY: "宋体", "u", "Arial", "Verdana", "Helvetica"; TEXT-DECORATION: none
+}
+.txtOrangeS:hover {
+	FONT-SIZE: 12px; COLOR: #e44600; FONT-FAMILY: "宋体", "u", "Arial", "Verdana", "Helvetica"; TEXT-DECORATION: none
+}
+.txtEnglishS {
+	FONT-SIZE: 10px; COLOR: #666666; FONT-FAMILY: "Tahoma"; TEXT-DECORATION: none
+}
+.txtEnglishS-black {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: "Tahoma"; TEXT-DECORATION: none
+}
+.txtEnglishSB {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "Tahoma"; TEXT-DECORATION: none
+}
+.txtEnglishS_Or {
+	FONT-SIZE: 10px; COLOR: #f41700; FONT-FAMILY: "Tahoma"; TEXT-DECORATION: none
+}
+.txtEnglishS_Sb {
+	FONT-SIZE: 10px; COLOR: #00ffff; FONT-FAMILY: "Tahoma"; TEXT-DECORATION: none
+}
+.txtEnglish_Or {
+	FONT-SIZE: 12px; COLOR: #f41700; FONT-FAMILY: "Tahoma"; TEXT-DECORATION: none
+}
+.txtGrayS {
+	FONT-SIZE: 12px; COLOR: #999999; FONT-FAMILY: "宋体", "u", "Arial", "Verdana", "Helvetica"; TEXT-DECORATION: none
+}
+.txtBlue-S {
+	FONT-SIZE: 12px; COLOR: #00aac8; FONT-FAMILY: "宋体","u","Arial","Verdana","Helvetica"; TEXT-DECORATION: none
+}
+.txtBlueSB {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #00aac8; FONT-FAMILY: "宋体","u","Arial","Verdana","Helvetica"; TEXT-DECORATION: none
+}
+.txtWhiteSB {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: "宋体","u","Arial","Verdana","Helvetica"; TEXT-DECORATION: none
+}
+.txtG-blueB {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #20899c; FONT-FAMILY: "宋体", "u", "Arial", "Verdana", "Helvetica"; TEXT-DECORATION: none
+}
+.txtGray {
+	FONT-SIZE: 12px; COLOR: #666666; LINE-HEIGHT: 140%; FONT-FAMILY: "宋体", "u", "Arial", "Verdana", "Helvetica"; TEXT-DECORATION: none
+}
+.txtLineS {
+	FONT-SIZE: 12px; COLOR: #e44600; FONT-FAMILY: "宋体", "u", "Arial", "Verdana", "Helvetica"; TEXT-DECORATION: underline
+}
